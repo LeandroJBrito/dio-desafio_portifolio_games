@@ -1,2 +1,5 @@
-# dio-desafio_portifolio_games
-desafio projeto github Bootcamp desenvolvimento de games
+# dio desafio portifolio Git/Github 
+Repositório projeto github Bootcamp - Desenvolvimento de Games
+
+## Links úteis
+[Sintaxe Básica](https://www.markdownguide.org/basic-syntax/)
